@@ -143,7 +143,6 @@ $ dsh -a exec bash
 $ hadoop namenode -format
 
 
-
 -----*** starting dfs daemons(from NN) ***----- 
 $ start-dfs.sh
 
