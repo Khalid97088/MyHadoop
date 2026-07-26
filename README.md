@@ -1,2 +1,1 @@
-MyHadoop
-Hadoop data
+Hadoop Data
